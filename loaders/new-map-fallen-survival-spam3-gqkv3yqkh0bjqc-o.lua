@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/new-map-fallen-survival-spam3-gqkv3yqkh0bjqc.lua"))()
