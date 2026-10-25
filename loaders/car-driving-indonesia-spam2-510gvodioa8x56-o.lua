@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/car-driving-indonesia-spam2-510gvodioa8x56.lua"))()
