@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/cargo-run-an-airline-spam3-ldb1lba0o34m9y.lua"))()
