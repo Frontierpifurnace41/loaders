@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/get-your-driver-s-license-spam1-5ahdn1s9o1t8ja.lua"))()
